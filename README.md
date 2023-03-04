@@ -3,13 +3,13 @@
 After you have cloned the repo make sure to create a `.env` file with the `TOKEN` and `CLIENT_ID` specified for example
 
 ```
-TOKEN=MTA4MTUyNzQ0MzkwMDM1MDU1NA.GX6Vjf.7Wyj-EHLl8ll3Vh4zOb-JSuaCJG2ZuOCAjgkZM
-CLIENT_ID=1081527443900350554
+TOKEN=
+CLIENT_ID=
 ```
 
 # Running with docker
 
-`docker run -e TOKEN=MTA4MTUyNzQ0MzkwMDM1MDU1NA.GX6Vjf.7Wyj-EHLl8ll3Vh4zOb-JSuaCJG2ZuOCAjgkZM -e CLIENT_ID=1081527443900350554 -d pabolo02345/discord-js-music-bot`
+`docker run -e TOKEN=<!> -e CLIENT_ID=<!> -d pabolo02345/discord-js-music-bot`
 
 # Commands
 
